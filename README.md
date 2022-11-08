@@ -1,0 +1,2 @@
+# Laravel_Simple_inventory_System
+# Laravel_Simple_inventory_System
